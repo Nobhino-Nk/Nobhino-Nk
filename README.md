@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Nitin Kumar 👋
+🎓 B.Sc. Mathematics (Hons) Student with a Computer Science Minor
 
-<!--
-**Nobhino-Nk/Nobhino-Nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+• Interested in Data Analysis and Technology  
+• Learning Python, MySQL, Excel, and LaTeX  
+• Exploring Web Development and Problem Solving  
+• Reference Artist and Portrait Artist  
+• Graphic Designer and Video Editor  
+• Active in student societies and collaborative projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+💻 Technical Skills
+
+- Python
+- MySQL
+- Microsoft Excel
+- LaTeX
+- Data Visualization
+
+🎨 Creative Skills
+
+- Graphic Design
+- Video Editing
+- Portrait Art
+- Reference Art
+
+🤝 Soft Skills
+
+- Teamwork
+- Communication
+- Problem Solving
+
+## Current Goals
+
+📌 Build projects  
+📌 Improve development skills  
+📌 Gain practical experience  
+📌 Learn and create consistently
