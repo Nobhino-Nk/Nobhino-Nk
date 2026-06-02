@@ -49,14 +49,16 @@
 ---
 ---
 
-# 📂 Repository Structure ( My Workshop )
+# 📂 Daily_Python_Projects (Intro)
+
+---
 
 ## 📖 Day-to-Day Progress
 
 Daily coding practice, concept implementation, experiments, and learning activities while progressing through Python.
 
 🔗 Folder Link:
-[Day-to-Day Progress](PASTE_FOLDER_LINK_HERE)
+[Day-to-Day Progress](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Day-to-Day_Progress
 
 ---
 
@@ -67,7 +69,7 @@ A collection of standalone Python projects built to apply programming concepts t
 Projects are organized separately with their own source code and documentation.
 
 🔗 Folder Link:
-[Project Works](PASTE_FOLDER_LINK_HERE)
+[Project Works](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Project_Works
 
 ---
 
@@ -75,8 +77,7 @@ Projects are organized separately with their own source code and documentation.
 
 Problem-solving exercises, coding challenges, logic-building questions, and practice tasks completed during the learning journey.
 
-🔗 Folder Link:
-[Question Practice](PASTE_FOLDER_LINK_HERE)
+🔗 Folder Link: [Question Practice](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Questions_Practice)
 
 ---
 
