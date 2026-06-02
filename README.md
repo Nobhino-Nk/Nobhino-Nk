@@ -55,8 +55,7 @@
 
 Daily coding practice, concept implementation, experiments, and learning activities while progressing through Python.
 
-🔗 Folder Link:
-[Day-to-Day Progress](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Day-to-Day_Progress
+🔗 Folder Link:[Day-to-Day Progress](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Day-to-Day_Progress)
 
 ---
 
@@ -66,8 +65,7 @@ A collection of standalone Python projects built to apply programming concepts t
 
 Projects are organized separately with their own source code and documentation.
 
-🔗 Folder Link:
-[Project Works](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Project_Works
+🔗 Folder Link:[Project Works](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Project_Works)
 
 ---
 
