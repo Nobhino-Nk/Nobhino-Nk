@@ -8,8 +8,6 @@
 • Interested in Data Analysis and Technology  
 • Learning Python, MySQL, Excel, and LaTeX  
 • Exploring Web Development and Problem Solving  
-• Reference Artist and Portrait Artist  
-• Graphic Designer and Video Editor  
 • Active in student societies and collaborative projects  
 
 ---
