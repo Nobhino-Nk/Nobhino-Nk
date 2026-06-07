@@ -77,6 +77,10 @@ Problem-solving exercises, coding challenges, logic-building questions, and prac
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nobhino-Nk&theme=highcontrast&hide_border=true"/>
+</p>
+
 ## 🐍 Contribution Activity
 
 <p align="center">
