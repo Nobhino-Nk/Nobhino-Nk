@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Machine-Learning-black?style=for-the-badge&labelColor=DC143C"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS"/>
 
 </p>
 
