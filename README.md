@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B0B0B,100:8B0000&text=Nitin+Ksumar&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI%20%26%20Data%20Science%20Student&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B0B0B,100:8B0000&text=Nitin%20Ksumar&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI%20%26%20Data%20Science%20Student&descAlignY=62"/>
 </p>
 
 <p align="center">
@@ -106,11 +106,11 @@ Currently exploring:
 # GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&border_color=DC143C"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nobhino-Nk&show_icons=true&theme=transparent&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&border_color=DC143C"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&ring=DC143C&fire=DC143C&currStreakLabel=DC143C"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nobhino-Nk&theme=transparent&ring=DC143C&fire=DC143C&currStreakLabel=DC143C"/>
 </p>
 
 ---
@@ -118,7 +118,7 @@ Currently exploring:
 # Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=DC143C&text_color=FFFFFF&border_color=DC143C"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobhino-Nk&layout=compact&theme=transparent&title_color=DC143C&text_color=FFFFFF&border_color=DC143C"/>
 </p>
 
 ---
@@ -126,7 +126,7 @@ Currently exploring:
 # Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=DC143C&line=DC143C&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nobhino-Nk&bg_color=000000&color=DC143C&line=DC143C&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
@@ -145,46 +145,3 @@ Currently exploring:
 
 ---
 
-# Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nobhi143personal@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Learn-black?style=for-the-badge&labelColor=DC143C"/>
-
-<img src="https://img.shields.io/badge/Build-black?style=for-the-badge&labelColor=DC143C"/>
-
-<img src="https://img.shields.io/badge/Improve-black?style=for-the-badge&labelColor=DC143C"/>
-
-<img src="https://img.shields.io/badge/Repeat-black?style=for-the-badge&labelColor=DC143C"/>
-
-</p>
-
-<h3 align="center">
-Data tells stories. Code brings them to life.
-</h3>
-
-<p align="center">
-Learning • Building • Improving
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B0B0B,100:8B0000"/>
-</p>
