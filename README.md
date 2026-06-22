@@ -94,11 +94,51 @@ Focused on building practical projects while continuously learning new technolog
 </a>
 
 </p>
----
-
 
 ---
 
+<p align="center">
+<img src="./assets/icon.png" width="55">
+</p>
+
+<h3 align="center">
+Guiding Ideas Toward Growth
+</h3>
+
+<p align="center">
+Data • Code • Design • Growth
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0D0D0D,50:5A5A5A,100:CFCFCF"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0D0D0D,50:6E6E6E,100:C0C0C0"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0D0D0D,50:5F5F5F,100:CFCFCF"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:111111,100:BEBEBE"/>
+</p>
+
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&animation=fadeIn&color=0:0A0A0A,30:333333,70:777777,100:E0E0E0"/>
+</p>
 
 ---
 
