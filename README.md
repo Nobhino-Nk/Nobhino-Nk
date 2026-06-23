@@ -142,8 +142,80 @@ Data • Code • Design • Growth
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:C0C0C0,100:111111"/>
+</p>
 
 
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=60&color=0:C0C0C0,100:111111"/>
+</p>
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:CFCFCF,100:111111"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:111111,50:808080,100:CFCFCF"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&height=80&color=0:CFCFCF,100:111111"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:CFCFCF,100:111111"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=60&color=0:111111,100:B0B0B0"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=80&color=0:CFCFCF,100:111111"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=0:CFCFCF,100:111111"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:CFCFCF,100:111111"/>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=0:111111,50:999999,100:111111"/>
+</p>
+
+<p align="center">
+
+╔══════════════════════╗  
+        SERVICES  
+╚══════════════════════╝
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=55&color=0:C0C0C0,100:111111"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=0:111111,100:CFCFCF"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:CFCFCF,100:111111"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:111111,50:666666,100:CFCFCF"/>
+</p>
 
 
 
