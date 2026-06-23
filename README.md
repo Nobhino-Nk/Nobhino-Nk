@@ -79,25 +79,25 @@ I've got few skills so far, but not the least of course, i.e.
 <br>
 
 <p align="center">
-<img width="750" src="certificate1.png">
+<img width="750" src="certificate1.jpg">
 </p>
 
 <p align="center">
-<img width="750" src="certificate2.png">
+<img width="750" src="certificate2.jpg">
 </p>
 
 <p align="center">
-<img width="750" src="certificate3.png">
+<img width="750" src="certificate3.jpg">
 </p>
 
 <p align="center">
-<img width="375" src="certificate4.png">
-<img width="375" src="certificate5.png">
+<img width="375" src="certificate4.jpg">
+<img width="375" src="certificate5.jpg">
 </p>
 
 <p align="center">
-<img width="375" src="certificate6.png">
-<img width="375" src="certificate7.png">
+<img width="375" src="certificate6.jpg">
+<img width="375" src="certificate7.jpg">
 </p>
 
 > To View all certificates: 🔗 [Click on the Link](https://drive.google.com/drive/folders/1--39sk8D8p4V9tWT1Kzl1-053McVDS6F)
