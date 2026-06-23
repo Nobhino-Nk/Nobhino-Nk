@@ -6,6 +6,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=5000&pause=4000&color=F0E6D2&center=true&vCenter=true&width=850&lines=Are+you+lost+somewhere;Or+did+you+find+me+on+purpose;Either+way+you+are+at+the+right+place"/>
 </p>
 
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=E6D9C8&center=true&vCenter=true&width=450&lines=About+Me"/>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
+</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:F0E6D2,50:B79C7A,100:111111"/>
 </p>
