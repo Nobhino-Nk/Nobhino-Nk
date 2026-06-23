@@ -6,25 +6,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=5000&pause=4000&color=F0E6D2&center=true&vCenter=true&width=850&lines=Are+you+lost+somewhere;Or+did+you+find+me+on+purpose;Either+way+you+are+at+the+right+place"/>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:F0E6D2,50:B79C7A,100:111111"/>
+</p>
+
+
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=E6D9C8&center=true&vCenter=true&width=450&lines=About+Me"/>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:F0E6D2,50:B79C7A,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:F0E6D2,50:B79C7A,100:111111"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=D6C2A8&center=true&vCenter=true&width=400&lines=About+Me"/>
-</p>
 
 Hey there! This is Nobhino, Real name Nitin Kumar.
 
@@ -40,14 +34,25 @@ I've got few skills so far, but not the least of course, i.e.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 </p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
+</p>
+<br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:F0E6D2,50:B79C7A,100:111111"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:F0E6D2,50:B79C7A,100:111111"/>
 </p>
 
+
+
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=D6C2A8&center=true&vCenter=true&width=450&lines=Learning+Progress"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=E6D9C8&center=true&vCenter=true&width=450&lines=Learning+Progress"/>
+<br>
 
 | Project Area | Repository |
 |:-------------|:----------:|
@@ -55,13 +60,23 @@ I've got few skills so far, but not the least of course, i.e.
 | Project Works | [Click here to Open](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Project_Works) |
 | Question Practice | [Click here to Open](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Questions_Practice) |
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:F0E6D2,50:B79C7A,100:111111"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
 </p>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=D6C2A8&center=true&vCenter=true&width=400&lines=Certificates"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:F0E6D2,50:B79C7A,100:111111"/>
 </p>
+
+
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=E6D9C8&center=true&vCenter=true&width=450&lines=Certificates"/>
+<br>
 
 <p align="center">
 <img width="750" src="certificate1.png">
@@ -70,6 +85,34 @@ I've got few skills so far, but not the least of course, i.e.
 <p align="center">
 <img width="750" src="certificate2.png">
 </p>
+
+<p align="center">
+<img width="750" src="certificate3.png">
+</p>
+
+<p align="center">
+<img width="375" src="certificate4.png">
+<img width="375" src="certificate5.png">
+</p>
+
+<p align="center">
+<img width="375" src="certificate6.png">
+<img width="375" src="certificate7.png">
+</p>
+
+> To View all certificates: 🔗 [Click on the Link](https://drive.google.com/drive/folders/1--39sk8D8p4V9tWT1Kzl1-053McVDS6F)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
+</p>
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:F0E6D2,50:B79C7A,100:111111"/>
+</p>
+
+
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:F0E6D2,50:B79C7A,100:111111"/>
