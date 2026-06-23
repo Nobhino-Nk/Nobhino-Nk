@@ -1,16 +1,16 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0D0D,100:5A5A5A&text=Nitin%20Kumar&fontColor=EAEAEA&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20•%20Python%20•%20Mathematics&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111111,100:365D7A&text=SurePath&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Build%20•%20Grow%20•%20Scale&descAlignY=62"/>
 </p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=5000&pause=4000&color=CFCFCF&center=true&vCenter=true&width=850&lines=Learning+Through+Consistency;Building+Projects+One+Day+At+A+Time;Exploring+Data+And+Technology"/>
 </p> 
 
 ---
-
-<h2 align="center">
-<img src="https://img.shields.io/badge/About%20Me-404040?style=for-the-badge&logoColor=white"/>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=About+Me"/>
+</p>
 
 <div align="center">
 
@@ -32,6 +32,10 @@ Focused on building practical projects while continuously learning new technolog
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=Project+Works"/>
+</p>
+
 
 | Project Area | Repository |
 |:-------------|:-----------:|
@@ -40,6 +44,9 @@ Focused on building practical projects while continuously learning new technolog
 | Question Practice | [Open](LINK) |
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=🏆+Certificates"/>
+</p>
 
 <h2 align="center">🏆 Certificates</h2>
 
@@ -48,18 +55,13 @@ Focused on building practical projects while continuously learning new technolog
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=0:555555,100:D0D0D0"/>
-</p>
-
-<p align="center">
-<img width="750" src="./assets/certificate1.png">
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=100:D0D0D0,0:555555"/>
+<img width="750" src="certificate2.png">
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=GitHub+Stats+Graph"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nobhino-Nk&theme=github-dark&bg_color=0D0D0D&color=CFCFCF&line=A0A0A0&point=FFFFFF&hide_border=true"/>
@@ -68,16 +70,29 @@ Focused on building practical projects while continuously learning new technolog
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=GitHub+Stats"/>
+</p>
+
+<p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nobhino-Nk&show_icons=true&theme=transparent&title_color=E0E0E0&text_color=BDBDBD&icon_color=FFFFFF&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=GitHub+Stats+Bar"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobhino-Nk&layout=compact&theme=transparent&title_color=E0E0E0&text_color=BDBDBD&hide_border=true"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=Contact+Me"/>
+</p>
+
 
 <p align="center">
 
@@ -98,7 +113,7 @@ Focused on building practical projects while continuously learning new technolog
 ---
 
 <p align="center">
-<img src="./assets/icon.png" width="55">
+<img src="icon.png" width="55">
 </p>
 
 <h3 align="center">
@@ -116,120 +131,5 @@ Data • Code • Design • Growth
 </p>
 
 ---
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0D0D0D,50:6E6E6E,100:C0C0C0"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0D0D0D,50:5F5F5F,100:CFCFCF"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:111111,100:BEBEBE"/>
-</p>
-
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&animation=fadeIn&color=0:0A0A0A,30:333333,70:777777,100:E0E0E0"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:C0C0C0,100:111111"/>
-</p>
-
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=60&color=0:C0C0C0,100:111111"/>
-</p>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:CFCFCF,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:111111,50:808080,100:CFCFCF"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&height=80&color=0:CFCFCF,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:CFCFCF,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=60&color=0:111111,100:B0B0B0"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=80&color=0:CFCFCF,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=0:CFCFCF,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&animation=fadeIn&color=0:CFCFCF,100:111111"/>
-</p>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=0:111111,50:999999,100:111111"/>
-</p>
-
-<p align="center">
-
-╔══════════════════════╗  
-        SERVICES  
-╚══════════════════════╝
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=55&color=0:C0C0C0,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=0:111111,100:CFCFCF"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:CFCFCF,100:111111"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:111111,50:666666,100:CFCFCF"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
