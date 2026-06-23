@@ -7,9 +7,8 @@
 </p> 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=60&color=0:111111,100:B0B0B0"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=0:CFCFCF,100:111111"/>
 </p>
-
 
 
 <p align="center">
