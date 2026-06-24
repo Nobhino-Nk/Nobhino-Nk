@@ -27,7 +27,7 @@ I'm one hell of a curious guy, so I'm Interested in Data Analysis, Python, and p
 
 I've got few skills so far, but not the least of course, i.e.
 
-> In Technical terms :- Python Programming language, Foundation knowledge of HTML, CSS, in-progress JavaScript, Fully understanding of LaTeX software.
+> In Technical terms :- Python Programming language, Foundation knowledge of HTML, CSS, in-progress JavaScript, Full understanding of LaTeX software.
 
 > In Data Analysis & Visualization :- Microsoft Excel, Power BI, NumPy, Matplotlib, etc.
 
@@ -78,29 +78,91 @@ I've got few skills so far, but not the least of course, i.e.
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=E6D9C8&center=true&vCenter=true&width=450&lines=Certificates"/>
 <br>
 
-<p align="center">
-<img width="750" src="certificate1.jpg">
-</p>
+<table>
+<tr>
+<td width="55%">
+
+## ✦ Gemini & AI Exploration ✦
+I've always enjoyed the creative side of things, whether it's drawing, music, or simply trying new ideas.
+
+This recognition from the Google Student Ambassador Program was honestly a pretty interesting experience. Using Lyria and creating music through prompts showed me how creativity and technology can work together.
+
+### Things I explored during this event:
+• AI-powered music generation
+• Creative prompt engineering
+• Experimenting with musical ideas
+• Combining creativity with technology
+
+> It reminded me that sometimes experimenting with ideas can create something surprisingly meaningful.
+
+</td>
+
+<td width="45%" align="center">
+<img src="certificate1.png" width="350">
+</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td width="45%" align="center">
+<img src="certificate2.png" width="350">
+</td>
+
+<td width="55%">
+
+## 🐍 Data Science Journey 🐍
+This was one of my first proper certifications related to Data Science and Python.
+
+The course helped me understand the basics of data, analysis, and programming while giving me practical exposure to Python. Since I'm interested in data analysis, it felt like an important step in my learning journey.
+
+### Things I learned:
+• Python fundamentals
+• Data science concepts
+• Working with datasets
+• Data visualization basics
+• Problem-solving through programming
+
+> There's still a lot to learn, but this course definitely made me more curious about the field.
+
+</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td width="55%">
+
+## 📈 Data Analytics Journey 📊
+Data Analytics is something that has always interested me because it combines logic, observation, and problem solving.
+
+Through this certification, I learned about analyzing data, understanding patterns, and making better decisions from information.
+
+### Key areas covered:
+• Data analysis fundamentals
+• Understanding data patterns
+• Data visualization concepts
+• Analytical thinking
+• Data-driven decision making
+
+> For me, this became another small but meaningful step toward learning data analysis and building practical skills.
+
+</td>
+
+<td width="45%" align="center">
+<img src="certificate3.png" width="350">
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img width="750" src="certificate2.jpg">
+<img width="375" src="certificate4.png">
+<img width="375" src="certificate5.png">
 </p>
 
-<p align="center">
-<img width="750" src="certificate3.jpg">
-</p>
-
-<p align="center">
-<img width="375" src="certificate4.jpg">
-<img width="375" src="certificate5.jpg">
-</p>
-
-<p align="center">
-<img width="375" src="certificate6.jpg">
-<img width="375" src="certificate7.jpg">
-</p>
-
-> To View all certificates: 🔗 [Click on the Link](https://drive.google.com/drive/folders/1--39sk8D8p4V9tWT1Kzl1-053McVDS6F)
+> View all certificates: 🔗 [Click on the Link](https://drive.google.com/drive/folders/1--39sk8D8p4V9tWT1Kzl1-053McVDS6F)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
 </p>
