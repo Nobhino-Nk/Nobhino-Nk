@@ -83,18 +83,15 @@ I've got few skills so far, but not the least of course, i.e.
 <td width="55%">
 
 ## ✦ Gemini & AI Exploration ✦
-I've always enjoyed the creative side of things, whether it's drawing, music, or simply trying new ideas.
 
-This recognition from the Google Student Ambassador Program was honestly a pretty interesting experience. Using Lyria and creating music through prompts showed me how creativity and technology can work together.
+Part of the winning team during the Music Night Edition using Google's Lyria.
 
-### Things I explored during this event:
-• AI-powered music generation
-• Creative prompt engineering
-• Experimenting with musical ideas
-• Combining creativity with technology
+✦ Competition winner
+✦ AI music generation
+✦ Creative prompting
+✦ Musical experimentation
 
-> It reminded me that sometimes experimenting with ideas can create something surprisingly meaningful.
-
+> Creativity and technology sometimes lead to unexpected victories.
 </td>
 
 <td width="45%" align="center">
@@ -113,19 +110,15 @@ This recognition from the Google Student Ambassador Program was honestly a prett
 <td width="55%">
 
 ## 🐍 Data Science Journey 🐍
-This was one of my first proper certifications related to Data Science and Python.
 
-The course helped me understand the basics of data, analysis, and programming while giving me practical exposure to Python. Since I'm interested in data analysis, it felt like an important step in my learning journey.
+My introduction to Data Science and Python.
 
-### Things I learned:
-• Python fundamentals
-• Data science concepts
-• Working with datasets
-• Data visualization basics
-• Problem-solving through programming
+✦ Python fundamentals
+✦ Data science concepts
+✦ Working with datasets
+✦ Problem solving
 
-> There's still a lot to learn, but this course definitely made me more curious about the field.
-
+> A small step into data science.
 </td>
 </tr>
 </table>
@@ -135,20 +128,16 @@ The course helped me understand the basics of data, analysis, and programming wh
 <tr>
 <td width="55%">
 
-## 📈 Data Analytics Journey 📊
-Data Analytics is something that has always interested me because it combines logic, observation, and problem solving.
+## 📊 Data Analytics Journey 📊
 
-Through this certification, I learned about analyzing data, understanding patterns, and making better decisions from information.
+Learning how data can be understood and transformed into insights.
 
-### Key areas covered:
-• Data analysis fundamentals
-• Understanding data patterns
-• Data visualization concepts
-• Analytical thinking
-• Data-driven decision making
+✦ Data analysis
+✦ Pattern recognition
+✦ Data visualization
+✦ Decision making
 
-> For me, this became another small but meaningful step toward learning data analysis and building practical skills.
-
+> Learning to understand data beyond numbers.
 </td>
 
 <td width="45%" align="center">
@@ -157,10 +146,28 @@ Through this certification, I learned about analyzing data, understanding patter
 </tr>
 </table>
 
-<p align="center">
-<img width="375" src="certificate4.png">
-<img width="375" src="certificate5.png">
-</p>
+## 🐍 Python Essentials Journey 🐍
+
+Completing Python Essentials I and II marked an important step in my programming journey.
+
+✦ Python fundamentals
+✦ Variables and control flow
+✦ Functions and modules
+✦ Object-oriented programming
+✦ File handling and structured coding
+
+> From writing my first programs to understanding how to build better ones.
+
+<table>
+<tr>
+<td width="45%" align="center">
+<img width="350" src="certificate4.png">
+</td>
+<td width="45%" align="center">
+<img width="350" src="certificate5.png">
+</td>
+</tr>
+</table> 
 
 > View all certificates: 🔗 [Click on the Link](https://drive.google.com/drive/folders/1--39sk8D8p4V9tWT1Kzl1-053McVDS6F)
 
