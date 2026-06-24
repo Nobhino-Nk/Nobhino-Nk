@@ -54,11 +54,33 @@ I've got few skills so far, but not the least of course, i.e.
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=E6D9C8&center=true&vCenter=true&width=450&lines=Learning+Progress"/>
 <br>
 
-| Project Area | Repository |
-|:-------------|:----------:|
-| Daily Progress | [Click here to Open](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Day-to-Day_Progress) |
-| Project Works | [Click here to Open](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Project_Works) |
-| Question Practice | [Click here to Open](https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Questions_Practice) |
+<table align="center" width="90%">
+<tr>
+<th width="50%">📂 Project Area</th>
+<th width="50%">🔗 Repository</th>
+</tr>
+
+<tr>
+<td align="center">Day-to-Day Progress</td>
+<td align="center">
+<a href="https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Day-to-Day_Progress">Open Folder</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">Project Works</td>
+<td align="center">
+<a href="https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Project_Works">Open Folder</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">Question Practice</td>
+<td align="center">
+<a href="https://github.com/Nobhino-Nk/Daily_Python_Projects/tree/main/Questions_Practice">Open Folder</a>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&animation=fadeIn&color=0:E6D9C8,50:8B7765,100:1B1B1B"/>
 </p>
@@ -78,7 +100,7 @@ I've got few skills so far, but not the least of course, i.e.
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=4000&pause=999999&color=E6D9C8&center=true&vCenter=true&width=450&lines=Certificates"/>
 <br>
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="55%">
 
@@ -101,7 +123,7 @@ Part of the winning team during the Music Night Edition using Google's Lyria.
 </table>
 <br>
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="45%" align="center">
 <img src="certificate2.png" width="350">
@@ -124,7 +146,7 @@ My introduction to Data Science and Python.
 </table>
 <br>
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="55%">
 
@@ -158,7 +180,7 @@ Completing Python Essentials I and II marked an important step in my programming
 
 > From writing my first programs to understanding how to build better ones.
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="45%" align="center">
 <img width="350" src="certificate4.png">
